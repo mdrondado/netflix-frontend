@@ -1,1 +1,1 @@
-# netflix-frontend
+# netflix-frontend-clone
